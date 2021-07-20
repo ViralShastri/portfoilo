@@ -445,6 +445,10 @@ footer .info {
     color: var(--info);
 }
 
+footer a {
+    color: var(--pure);
+}
+
 /* Media Queries  */
 
 @media (max-width: 1280px) {
